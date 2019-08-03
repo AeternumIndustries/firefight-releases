@@ -1,0 +1,17 @@
+{
+  "name": "firefight-releases",
+  "version": "0.3.15",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AeternumIndustries/firefight-releases.git"
+  },
+  "keywords": [
+    "firefight",
+    "firefight-launcher"
+  ],
+  "author": "Aeternum Industries",
+  "bugs": {
+    "url": "https://github.com/AeternumIndustries/firefight-releases/issues"
+  },
+  "homepage": "https://github.com/AeternumIndustries/firefight-releases#readme"
+}
