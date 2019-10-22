@@ -1,6 +1,6 @@
 {
   "name": "firefight-releases",
-  "version": "0.3.16",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AeternumIndustries/firefight-releases.git"
